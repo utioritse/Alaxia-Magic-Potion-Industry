@@ -7,6 +7,8 @@ While looking for a small dataset to practice with, I generated one based on the
 ## Objective
 To provide a comprehensive analysis of the Alaxia potion market, highlighting sales trends, customer demographics, seasonal demand, and regional distribution. This dashboard aims to enable data-driven decisions for optimizing production, marketing strategies, and enhancing profitability across the potion industry.
 
+![Dashboard](Alaxia%20Dashboard.png)
+
 ## Key Insights 
 - Dragon Healing Potion is the highest-selling potion across all five regions.
 - Stealth potions are very popular among young people.
