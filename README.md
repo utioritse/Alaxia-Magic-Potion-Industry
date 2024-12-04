@@ -19,3 +19,6 @@ To provide a comprehensive analysis of the Alaxia potion market, highlighting sa
 ### Leveraging the interactive features of the dashboard, I explored deeper insights into potion sales and regional trends.
 #### Fire Resistance
 Making use of the region slicer, we learn Fire Resistance Potion is sold mostly in Golden Hills, which would suggest a bombardment of fire-based attacks in the region. The average rating of the potion also falls to the mid-range as frequent and consistent use by customers draws harsher criticism. 
+
+![Fire Resistance](Fire-Resistance.png)
+![Fire Resistance 1](Fire-Resistance-1.png)
