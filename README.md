@@ -2,7 +2,7 @@
 An overview of the magic potion industry in the fantasy land of Alaxia
 
 ## Background
-While looking for a small dataset to practice with, I generated one based on the industry of a fantasy land. The dataset, provided in a [CSV file]([url](https://github.com/utioritse/Alaxia-Magic-Potion-Industry/blob/main/Magic_Potions_Industry.csv), showcases potion data from five regions: Dragonspire, Enchanted Forest, Golden Hills, Mystic Falls, and the Shadowlands. The data further categorizes potions by type, main ingredient, price, production cost, seasonality, age groups, and customer ratings. Further analysis was done with [Python]([url](https://github.com/utioritse/Alaxia-Magic-Potion-Industry/blob/main/Alaxia.ipynb).
+While looking for a small dataset to practice with, I generated one based on the industry of a fantasy land. The dataset, provided in a [CSV file]([url](https://github.com/utioritse/Alaxia-Magic-Potion-Industry/blob/main/Magic_Potions_Industry.csv)), showcases potion data from five regions: Dragonspire, Enchanted Forest, Golden Hills, Mystic Falls, and the Shadowlands. The data further categorizes potions by type, main ingredient, price, production cost, seasonality, age groups, and customer ratings. Further analysis was done with [Python]([url](https://github.com/utioritse/Alaxia-Magic-Potion-Industry/blob/main/Alaxia.ipynb)).
 
 ## Objective
 To provide a comprehensive analysis of the Alaxia potion market, highlighting sales trends, customer demographics, seasonal demand, and regional distribution. This dashboard aims to enable data-driven decisions for optimizing production, marketing strategies, and enhancing profitability across the potion industry.
