@@ -10,6 +10,7 @@ To provide a comprehensive analysis of the Alaxia potion market, highlighting sa
 ## Key Insights 
 - Dragon Healing Potion is the highest-selling potion across all five regions.
 - Stealth potions are very popular among young people.
+- Enhancements are also very popular among people ages 41-60. 
 - The Shadowlands is the region with the most activity.
 - Potion vendors retain only 21% of the industry's revenue due to high production costs.
 - Healing and Combat type potions are the most popular across all regions.
@@ -28,3 +29,8 @@ Making use of the region slicer, we learn Fire Resistance Potion is sold mostly 
 The highest-selling potion in Alaxia sees its sales peak in the summer. It's a versatile potion but is mainly used for Healing, Enhancement and Combat. All these factors would suggest a lot of fighting during summer.
 
 ![Dragon Breath](Dragon%20Breathing%20Potion.png)
+
+## Recommendations
+- Due to high production costs, the industry needs to find a way to imbibe efficiency to improve profit.
+- Other potion types could be introduced to entice young people, including teleportation, flight etc.
+- Demand for potions in the Shadowlands and Enchanted Forest is strong, so investors should focus their attention in those regions. 
