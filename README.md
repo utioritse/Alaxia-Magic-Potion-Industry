@@ -5,7 +5,7 @@ An overview of the magic potion industry in the fantasy land of Alaxia
 While looking for a small dataset to practice with, I generated one based on the industry of a fantasy land. 
 
 ## Objective
-- To provide a comprehensive analysis of the Alaxia potion market, highlighting sales trends, customer demographics, seasonal demand, and regional distribution. This dashboard aims to enable data-driven decisions for optimizing production, marketing strategies, and enhancing profitability across the potion industry.
+To provide a comprehensive analysis of the Alaxia potion market, highlighting sales trends, customer demographics, seasonal demand, and regional distribution. This dashboard aims to enable data-driven decisions for optimizing production, marketing strategies, and enhancing profitability across the potion industry.
 
 ## Key Insights 
 - Dragon Healing Potion is the highest-selling potion across all five regions.
