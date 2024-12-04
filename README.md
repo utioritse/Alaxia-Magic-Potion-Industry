@@ -23,3 +23,8 @@ Making use of the region slicer, we learn Fire Resistance Potion is sold mostly 
 ![Fire Resistance](Fire%20Resistance.png)
 
 ![Fire Resistance 1](Fire%20Resistance%201.png)
+
+#### Dragon Breathing Potion 
+The highest-selling potion in Alaxia sees its sales peak in the summer. It's a versatile potion but is mainly used for Healing, Enhancement and Combat. All these factors would suggest a lot of fighting during summer.
+
+![Dragon Breath](Dragon%20Breathing%20Potion.png)
