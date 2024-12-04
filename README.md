@@ -13,4 +13,7 @@ To provide a comprehensive analysis of the Alaxia potion market, highlighting sa
 - The Shadowlands is the region with the most activity.
 - Potion vendors retain only 21% of the industry's revenue due to high production costs.
 - Healing and Combat type potions are the most popular across all regions.
-- Fire Resistance Potion has the highest average customer rating across the five regions, because who wouldn't be happy with being resistant to fire? 
+- Fire Resistance Potion has the highest average customer rating across the five regions, because who wouldn't be happy with being resistant to fire?
+
+## Further Drilling
+### Making use of the dashboard's interactive features, I searched for more insights. 
