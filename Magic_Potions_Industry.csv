@@ -1,0 +1,101 @@
+Potion Name,Potion Type,Main Ingredient,Price (Gold Coins),Monthly Sales,Customer Age Group,Region,Production Cost (Gold Coins),Seasonality,Customer Ratings
+Fire Resistance Potion,Healing,Elf Tears,56,70,18-25,Dragonspire,72,Spring,4.9
+Invisibility Tonic,Miscellaneous,Troll Fat,26,424,26-40,Mystic Falls,74,Summer,3.3
+Dragon Breath Potion,Healing,Spectral Vine,11,416,26-40,Dragonspire,65,Fall,3.8
+Dragon Breath Potion,Healing,Troll Fat,11,235,26-40,Enchanted Forest,74,Winter,4.3
+Dragon Breath Potion,Healing,Spectral Vine,77,302,18-25,Mystic Falls,74,Year-round,3.5
+Dragon Breath Potion,Miscellaneous,Mandrake Root,95,303,41-60,Mystic Falls,73,Year-round,3.6
+Charm Elixir,Enhancement,Phoenix Feather,35,181,60+,Dragonspire,39,Year-round,4.1
+Mana Boost,Combat,Mandrake Root,53,261,18-25,Shadowlands,27,Fall,3.0
+Dragon Breath Potion,Enhancement,Goblin Mushroom,81,132,41-60,Golden Hills,56,Summer,5.0
+Strength Serum,Healing,Troll Fat,45,477,26-40,Mystic Falls,10,Year-round,4.5
+Fire Resistance Potion,Miscellaneous,Troll Fat,73,373,26-40,Mystic Falls,35,Summer,3.9
+Night Vision Draught,Enhancement,Phoenix Feather,92,55,26-40,Golden Hills,72,Spring,4.7
+Charm Elixir,Combat,Moonstone Dust,17,331,18-25,Shadowlands,11,Year-round,3.4
+Speed Brew,Combat,Unicorn Horn,42,367,41-60,Shadowlands,50,Year-round,4.0
+Mana Boost,Miscellaneous,Mandrake Root,36,449,41-60,Shadowlands,64,Fall,4.5
+Night Vision Draught,Healing,Elf Tears,70,26,18-25,Shadowlands,21,Spring,3.4
+Healing Elixir,Healing,Elf Tears,66,121,18-25,Dragonspire,15,Summer,4.1
+Invisibility Tonic,Miscellaneous,Goblin Mushroom,94,206,18-25,Enchanted Forest,24,Fall,4.4
+Night Vision Draught,Combat,Mandrake Root,96,343,26-40,Dragonspire,22,Summer,4.9
+Strength Serum,Combat,Troll Fat,78,85,26-40,Shadowlands,51,Spring,4.6
+Mana Boost,Enhancement,Goblin Mushroom,93,203,41-60,Golden Hills,79,Winter,3.0
+Night Vision Draught,Combat,Phoenix Feather,40,90,60+,Dragonspire,63,Year-round,3.7
+Frost Ward,Stealth,Mandrake Root,57,394,26-40,Shadowlands,73,Fall,3.9
+Fire Resistance Potion,Miscellaneous,Mandrake Root,61,473,18-25,Golden Hills,28,Year-round,3.4
+Strength Serum,Combat,Goblin Mushroom,16,157,60+,Golden Hills,26,Year-round,3.5
+Strength Serum,Healing,Mandrake Root,88,161,18-25,Shadowlands,41,Spring,4.6
+Mana Boost,Combat,Elf Tears,90,440,26-40,Golden Hills,23,Spring,4.9
+Frost Ward,Healing,Troll Fat,72,65,18-25,Golden Hills,30,Spring,4.3
+Strength Serum,Stealth,Dragon Scale,91,430,18-25,Enchanted Forest,5,Winter,4.0
+Frost Ward,Miscellaneous,Troll Fat,17,260,18-25,Enchanted Forest,52,Summer,3.2
+Fire Resistance Potion,Healing,Griffin Claw,92,149,41-60,Mystic Falls,65,Summer,3.6
+Charm Elixir,Miscellaneous,Troll Fat,56,224,26-40,Golden Hills,50,Winter,4.1
+Invisibility Tonic,Enhancement,Moonstone Dust,86,133,41-60,Mystic Falls,13,Fall,3.2
+Speed Brew,Healing,Dragon Scale,18,142,41-60,Shadowlands,7,Spring,3.9
+Mana Boost,Enhancement,Goblin Mushroom,100,326,26-40,Shadowlands,80,Winter,4.5
+Healing Elixir,Combat,Spectral Vine,26,91,26-40,Enchanted Forest,78,Spring,4.0
+Charm Elixir,Stealth,Griffin Claw,91,495,41-60,Dragonspire,45,Year-round,4.8
+Speed Brew,Stealth,Spectral Vine,23,72,41-60,Mystic Falls,72,Year-round,3.5
+Healing Elixir,Miscellaneous,Mandrake Root,55,157,41-60,Dragonspire,52,Summer,4.3
+Strength Serum,Healing,Mandrake Root,91,234,60+,Shadowlands,35,Summer,3.2
+Night Vision Draught,Stealth,Unicorn Horn,64,139,18-25,Golden Hills,43,Summer,3.0
+Fire Resistance Potion,Enhancement,Moonstone Dust,43,153,60+,Golden Hills,19,Spring,4.9
+Charm Elixir,Healing,Unicorn Horn,18,341,18-25,Enchanted Forest,20,Winter,4.4
+Frost Ward,Healing,Dragon Scale,44,434,60+,Shadowlands,12,Fall,3.9
+Strength Serum,Miscellaneous,Mandrake Root,60,298,60+,Enchanted Forest,22,Winter,4.6
+Frost Ward,Enhancement,Elf Tears,94,269,18-25,Mystic Falls,60,Summer,4.9
+Frost Ward,Combat,Mandrake Root,60,438,60+,Enchanted Forest,20,Spring,4.8
+Charm Elixir,Enhancement,Troll Fat,74,136,26-40,Shadowlands,69,Fall,3.5
+Dragon Breath Potion,Miscellaneous,Troll Fat,26,323,18-25,Enchanted Forest,19,Spring,4.2
+Invisibility Tonic,Miscellaneous,Griffin Claw,46,264,41-60,Dragonspire,8,Winter,3.8
+Dragon Breath Potion,Healing,Goblin Mushroom,100,435,18-25,Enchanted Forest,11,Summer,4.7
+Invisibility Tonic,Healing,Elf Tears,20,344,26-40,Golden Hills,21,Spring,4.8
+Mana Boost,Healing,Troll Fat,94,387,60+,Shadowlands,39,Summer,3.9
+Healing Elixir,Combat,Griffin Claw,68,379,18-25,Golden Hills,16,Year-round,4.6
+Strength Serum,Stealth,Elf Tears,99,362,60+,Enchanted Forest,19,Spring,4.4
+Speed Brew,Healing,Spectral Vine,73,380,41-60,Mystic Falls,25,Fall,4.4
+Charm Elixir,Combat,Phoenix Feather,79,499,60+,Enchanted Forest,22,Fall,3.4
+Fire Resistance Potion,Enhancement,Spectral Vine,78,431,41-60,Shadowlands,74,Fall,4.9
+Mana Boost,Combat,Goblin Mushroom,13,388,26-40,Enchanted Forest,68,Fall,3.4
+Healing Elixir,Stealth,Griffin Claw,54,413,18-25,Dragonspire,72,Winter,4.1
+Charm Elixir,Healing,Goblin Mushroom,37,375,41-60,Shadowlands,57,Summer,5.0
+Frost Ward,Healing,Dragon Scale,87,337,41-60,Enchanted Forest,29,Year-round,4.5
+Healing Elixir,Miscellaneous,Mandrake Root,16,263,60+,Enchanted Forest,28,Summer,4.6
+Healing Elixir,Healing,Mandrake Root,38,207,26-40,Shadowlands,16,Winter,3.3
+Dragon Breath Potion,Enhancement,Elf Tears,83,291,41-60,Mystic Falls,46,Summer,4.6
+Invisibility Tonic,Miscellaneous,Griffin Claw,100,132,26-40,Shadowlands,64,Winter,4.0
+Healing Elixir,Stealth,Unicorn Horn,46,454,18-25,Enchanted Forest,65,Winter,5.0
+Fire Resistance Potion,Combat,Griffin Claw,77,36,26-40,Mystic Falls,16,Fall,4.8
+Charm Elixir,Stealth,Unicorn Horn,18,82,26-40,Golden Hills,37,Fall,3.6
+Healing Elixir,Combat,Griffin Claw,65,465,41-60,Enchanted Forest,69,Fall,3.2
+Invisibility Tonic,Miscellaneous,Elf Tears,35,159,60+,Mystic Falls,70,Spring,3.2
+Speed Brew,Stealth,Griffin Claw,33,345,41-60,Enchanted Forest,49,Year-round,3.1
+Night Vision Draught,Combat,Elf Tears,24,447,60+,Shadowlands,16,Winter,3.7
+Dragon Breath Potion,Stealth,Mandrake Root,30,360,18-25,Dragonspire,5,Winter,3.4
+Dragon Breath Potion,Healing,Elf Tears,93,358,41-60,Golden Hills,62,Spring,3.9
+Speed Brew,Stealth,Griffin Claw,68,219,18-25,Dragonspire,37,Winter,3.8
+Speed Brew,Miscellaneous,Mandrake Root,41,49,60+,Golden Hills,39,Spring,4.4
+Mana Boost,Enhancement,Phoenix Feather,48,95,60+,Dragonspire,40,Spring,3.9
+Night Vision Draught,Combat,Griffin Claw,47,236,60+,Dragonspire,51,Fall,5.0
+Speed Brew,Combat,Phoenix Feather,55,200,26-40,Enchanted Forest,70,Year-round,4.2
+Frost Ward,Stealth,Unicorn Horn,55,309,26-40,Shadowlands,13,Spring,3.3
+Fire Resistance Potion,Miscellaneous,Moonstone Dust,98,376,26-40,Dragonspire,41,Summer,4.9
+Invisibility Tonic,Combat,Spectral Vine,57,81,18-25,Shadowlands,58,Fall,3.5
+Invisibility Tonic,Stealth,Moonstone Dust,17,127,60+,Golden Hills,37,Winter,4.8
+Night Vision Draught,Miscellaneous,Moonstone Dust,12,289,18-25,Golden Hills,74,Summer,4.1
+Frost Ward,Stealth,Unicorn Horn,79,82,60+,Dragonspire,41,Year-round,4.7
+Strength Serum,Stealth,Moonstone Dust,38,128,60+,Golden Hills,62,Year-round,4.9
+Strength Serum,Stealth,Troll Fat,24,210,60+,Dragonspire,68,Spring,4.6
+Fire Resistance Potion,Combat,Dragon Scale,83,421,26-40,Golden Hills,61,Year-round,3.4
+Invisibility Tonic,Stealth,Goblin Mushroom,40,284,18-25,Shadowlands,13,Fall,3.2
+Frost Ward,Miscellaneous,Mandrake Root,88,377,26-40,Shadowlands,79,Year-round,4.3
+Charm Elixir,Stealth,Griffin Claw,14,49,60+,Mystic Falls,74,Year-round,3.3
+Charm Elixir,Enhancement,Goblin Mushroom,24,482,60+,Dragonspire,64,Spring,4.8
+Charm Elixir,Combat,Moonstone Dust,70,194,60+,Enchanted Forest,74,Spring,4.0
+Dragon Breath Potion,Combat,Dragon Scale,99,171,41-60,Shadowlands,66,Spring,3.7
+Strength Serum,Healing,Spectral Vine,64,200,60+,Mystic Falls,56,Winter,3.4
+Dragon Breath Potion,Enhancement,Moonstone Dust,87,408,41-60,Golden Hills,67,Summer,4.5
+Speed Brew,Combat,Mandrake Root,12,58,18-25,Golden Hills,40,Fall,4.5
+Speed Brew,Enhancement,Phoenix Feather,38,416,41-60,Shadowlands,18,Summer,3.0
+Dragon Breath Potion,Enhancement,Moonstone Dust,71,151,60+,Shadowlands,33,Spring,3.6
