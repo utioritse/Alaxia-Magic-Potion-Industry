@@ -2,7 +2,7 @@
 An overview of the magic potion industry in the fantasy land of Alaxia
 
 ## Background
-While looking for a small dataset to practice with, I generated one based on the industry of a fantasy land. 
+While looking for a small dataset to practice with, I generated one based on the industry of a fantasy land. The dataset, provided in a CSV file, showcases potion data from five regions: Dragonspire, Enchanted Forest, Golden Hills, Mystic Falls, and the Shadowlands. The data further categorizes potions by type, main ingredient, price, production cost, seasonality, age groups, and customer ratings.
 
 ## Objective
 To provide a comprehensive analysis of the Alaxia potion market, highlighting sales trends, customer demographics, seasonal demand, and regional distribution. This dashboard aims to enable data-driven decisions for optimizing production, marketing strategies, and enhancing profitability across the potion industry.
@@ -17,3 +17,5 @@ To provide a comprehensive analysis of the Alaxia potion market, highlighting sa
 
 ## Further Drilling
 ### Making use of the dashboard's interactive features, I searched for more insights. 
+#### Fire Resistance
+Making use of the region slicer, we learn Fire Resistance Potion is sold mostly in Golden Hills, which would suggest a bombardment of fire-based attacks in the region. The average rating of the potion also falls to the mid-point as frequent and consistent use by customers draws harsher criticism. 
