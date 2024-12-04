@@ -16,6 +16,6 @@ To provide a comprehensive analysis of the Alaxia potion market, highlighting sa
 - Fire Resistance Potion has the highest average customer rating across the five regions, because who wouldn't be happy with being resistant to fire?
 
 ## Further Drilling
-### Making use of the dashboard's interactive features, I searched for more insights. 
+### Leveraging the interactive features of the dashboard, I explored deeper insights into potion sales and regional trends.
 #### Fire Resistance
-Making use of the region slicer, we learn Fire Resistance Potion is sold mostly in Golden Hills, which would suggest a bombardment of fire-based attacks in the region. The average rating of the potion also falls to the mid-point as frequent and consistent use by customers draws harsher criticism. 
+Making use of the region slicer, we learn Fire Resistance Potion is sold mostly in Golden Hills, which would suggest a bombardment of fire-based attacks in the region. The average rating of the potion also falls to the mid-range as frequent and consistent use by customers draws harsher criticism. 
