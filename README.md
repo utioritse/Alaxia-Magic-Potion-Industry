@@ -34,7 +34,7 @@ The highest-selling potion in Alaxia sees its sales peak in the summer. It's a v
 
 ## Python 
 ```python 
-'''#importing the pandas library
+#importing the pandas library
 import pandas as pd
 #getting a general understanding of the database
 potions = pd.read_csv('Magic_Potions_Industry.csv')
@@ -42,6 +42,11 @@ print(potions.columns)
 potions.head()
 print(potions.isnull().sum())
 ```
+
+```python
+# The average potion cost in Alaxia
+average_potion_cost = potions['Price (Gold Coins)'].mean()
+average_potion_cost ``` 
 
 
 ## Recommendations
