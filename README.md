@@ -46,7 +46,26 @@ print(potions.isnull().sum())
 ```python
 # The average potion cost in Alaxia
 average_potion_cost = potions['Price (Gold Coins)'].mean()
-average_potion_cost ``` 
+average_potion_cost
+```
+```python
+# Here we learn that Dragon Breath Potion is the most popular potion in Alaxia in terms of sales
+total_sales = potions.groupby(['Potion Name'])['Price (Gold Coins)'].sum().sort_values(ascending=False)
+total_sales
+
+# On average, Mana Boost is the most expensive potion to produce followed by the highest selling potion, Dragon Breath Potion
+average_production_cost = potions.groupby(['Potion Name'])['Production Cost (Gold Coins)'].mean().sort_values(ascending=False).round(0).astype(int)
+average_production_cost
+
+#Calculate the revenue per potion by multiplying the monthly sales as a unit sale by the potion price
+potions['Revenue'] = potions['Monthly Sales'] * potions['Price (Gold Coins)']
+#Calculate the total production cost per potion and not unit cost to find out how much druids are spending every month to make potions
+potions['Total Production Cost'] = potions['Monthly Sales'] * potions['Production Cost (Gold Coins)']
+#Find the profit 
+potions['Profit'] = potions['Revenue'] - potions['Total Production Cost']
+potions.head()
+
+```
 
 
 ## Recommendations
