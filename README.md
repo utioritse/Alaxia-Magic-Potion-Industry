@@ -21,16 +21,26 @@ To provide a comprehensive analysis of the Alaxia potion market, highlighting sa
 ## Further Drilling
 ### Leveraging the interactive features of the dashboard, I explored deeper insights into potion sales and regional trends.
 #### Fire Resistance
-Making use of the region slicer, we learn Fire Resistance Potion is sold mostly in Golden Hills, which would suggest a bombardment of fire-based attacks in the region. The average rating of the potion also falls to the mid-range as frequent and consistent use by customers draws harsher criticism. 
+Using the region slicer, we learn that Fire Resistance Potion is sold mostly in Golden Hills, which suggests a bombardment of fire-based attacks in the region. The potion's average rating also falls to the mid-range, as frequent and consistent use by customers draws harsher criticism. 
 
 ![Fire Resistance](Fire%20Resistance.png)
 
 ![Fire Resistance 1](Fire%20Resistance%201.png)
 
 #### Dragon Breathing Potion 
-The highest-selling potion in Alaxia sees its sales peak in the summer. It's a versatile potion but is mainly used for Healing, Enhancement and Combat. All these factors would suggest a lot of fighting during summer.
+The highest-selling potion in Alaxia sees its sales peak in the summer. It's a versatile potion mainly used for Healing, Enhancement and Combat. All these factors would suggest a lot of fighting during summer.
 
 ![Dragon Breath](Dragon%20Breathing%20Potion.png)
+
+## Python 
+'''#importing the pandas library
+import pandas as pd
+#getting a general understanding of the database
+potions = pd.read_csv('Magic_Potions_Industry.csv')
+print(potions.columns)
+potions.head()
+print(potions.isnull().sum())
+
 
 ## Recommendations
 - Due to high production costs, the industry needs to find a way to imbibe efficiency to improve profit.
