@@ -33,8 +33,7 @@ The highest-selling potion in Alaxia sees its sales peak in the summer. It's a v
 ![Dragon Breath](Dragon%20Breathing%20Potion.png)
 
 ## Python 
-python
-''' 
+'''python 
 '''#importing the pandas library
 import pandas as pd
 #getting a general understanding of the database
