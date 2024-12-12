@@ -33,6 +33,8 @@ The highest-selling potion in Alaxia sees its sales peak in the summer. It's a v
 ![Dragon Breath](Dragon%20Breathing%20Potion.png)
 
 ## Python 
+python
+''' 
 '''#importing the pandas library
 import pandas as pd
 #getting a general understanding of the database
@@ -40,6 +42,7 @@ potions = pd.read_csv('Magic_Potions_Industry.csv')
 print(potions.columns)
 potions.head()
 print(potions.isnull().sum())
+'''
 
 
 ## Recommendations
